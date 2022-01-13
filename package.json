@@ -1,0 +1,25 @@
+{
+  "name": "hipotecario-ui-framework",
+  "version": "1.0.0",
+  "description": "Framework UI for Hipotecario Apps",
+  "main": "src/index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "react": "^17.0.2",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrsd/hipotecario-ui-framework.git"
+  },
+  "author": "Kevin Riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinrsd/hipotecario-ui-framework/issues"
+  },
+  "homepage": "https://github.com/kevinrsd/hipotecario-ui-framework#readme"
+}
